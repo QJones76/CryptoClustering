@@ -1,1 +1,2 @@
-# CryptoClustering
+# Crypto Clustering Challenge
+I used this project to load in some market data about different crypto currencies and practiced scaling the data, fitting them to KMeans models, and repeating that process on principal component analysis data. I used the [elbow curve method](https://builtin.com/data-science/elbow-method#:~:text=The%20elbow%20method%20is%20a%20graphical%20method%20for%20finding%20the,on%20the%20x%2Daxis) to select the optimal number of clusters for both the scaled and the principal component datasets. After plotting all the clusters for both datasets, I then created composite plots for easy comparison of outcomes. 
